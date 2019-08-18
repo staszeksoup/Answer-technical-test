@@ -1,4 +1,4 @@
-const {Broswer, By, Key, actions, until} = require("selenium-webdriver");
+const {Browser, By, Key, actions, until} = require("selenium-webdriver");
 const {suite} = require("selenium-webdriver/testing");
 const assert = require('assert')
 const LoginPage = require('./accountpage.js');
