@@ -6,10 +6,15 @@ The tests run in mocha with a timeout of 15000.
 You will need to have nodejs installed, mocha, selenium webdriver, chrome driver and geckodriver:
 after installing node, go to the console, navigate to the task folder and type:
 npm install selenium-webdriver
+
 npm install chromedriver
+
 npm install geckodriver
+
 npm install mocha
+
 npm init
+
 mocha --timeout 15000
 
 Hello please find here my automated tests for Answer Digital Technical tasks.
